@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Selenium_basics.iml" filepath="$PROJECT_DIR$/.idea/Selenium_basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Selenium_Fill_Form.iml" filepath="$PROJECT_DIR$/.idea/Selenium_Fill_Form.iml" />
     </modules>
   </component>
 </project>
